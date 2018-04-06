@@ -9,7 +9,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d3272bc-4fbf-4e3f-8d37-7a4cf5c42d6a" name="Default" comment="" />
+    <list default="true" id="2f3ebc9d-70ac-4094-a837-f6e193b3a17d" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="504">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+              <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -103,17 +103,17 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7d3272bc-4fbf-4e3f-8d37-7a4cf5c42d6a" name="Default" comment="" />
-      <created>1523042673023</created>
+      <changelist id="2f3ebc9d-70ac-4094-a837-f6e193b3a17d" name="Default" comment="" />
+      <created>1523042750246</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1523042673023</updated>
-      <workItem from="1523042674278" duration="76000" />
+      <updated>1523042750246</updated>
+      <workItem from="1523042751484" duration="2000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76000" />
+    <option name="totallyTimeSpent" value="2000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="260" y="40" width="1400" height="1000" extended-state="0" />
@@ -160,7 +160,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <caret line="28" column="0" lean-forward="true" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
           <folding />
         </state>
       </provider>
